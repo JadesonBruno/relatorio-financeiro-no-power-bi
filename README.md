@@ -1,5 +1,7 @@
 # Relatório Financeiro no Power BI
 
+[![License](https://img.shields.io/npm/l/react)](https://github.com/JadesonBruno/relatorio-financeiro-no-power-bi/blob/main/LICENSE)
+
 Este repositório tem como objetivo armazenar o projeto desenvolvido no âmbito do módulo "Visualização e Análise de dados com Power BI" do Bootcamp "Python Data Analytics powered by [Squadio](https://www.squadio.com/home/client)" da [DIO](https://www.dio.me/), sob orientação da professora [Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-ds/).
 
 O projeto é requisito essencial para a aprovação no módulo “Visualização e Análise de dados com Power BI”, consolidando o aprendizado prático dos participantes e preparando-os para os desafios subsequentes.
